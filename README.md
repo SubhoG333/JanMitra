@@ -9,7 +9,7 @@ JanMitra is a simple yet powerful platform where citizens report issues (pothole
 
 📸 Report via photo + voice + auto-location
 
-🟢 Two-button citizen dashboard – Report / Track
+🟢 Two-button citizen dashboard – Report / Track (https://drive.google.com/file/d/1UTRiYjivUpvl2xg2A1cAzMg7WuA7LOQ5/view?usp=sharing)
 
 📊 Admin dashboard with filters, task assignment, maps & analytics
 
